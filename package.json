@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "zeinab-portfolio",
   "private": true,
@@ -15,4 +16,23 @@
     "react-dom": "latest",
     "lucide-react": "latest"
   }
+=======
+{
+  "name": "zeinab-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  }
+>>>>>>> 4e08db6a505c9fda4db944c44680d368ade71da6
 }
